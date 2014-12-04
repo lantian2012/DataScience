@@ -8,3 +8,9 @@ NewMovieTable: Delete actors that show up less than 6 times. There are movies wi
 
 ActorTable: Wrangle data from MovieTable. Delete movies without critic rating.
 NewActorTable: Delete actors that show up less than 6 times. 
+
+ActorTable_clean/DirectorTable_clean/MovieTable_clean: remove directors with only 1 movie. Make the three tables consistent.
+
+ActorTable_Twitter: add twitter data to NewActorTable. Note that this table does not use ActorTable_clean, so the movie data is not consistent with MovieTable_clean.
+
+*_Twitter_clean: remove the actors without twitter data. delete a repeated actor.
