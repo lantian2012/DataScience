@@ -1,13 +1,25 @@
 
 #Group Project for Data Science 
-====================
+##What to Watch: Something You Don’t Know about Rottentomatoes.com
+-----------------
 
 Peiheng Hu, Tian Lan, Xiaoan Wang
 
-### test title
+### Overview
 
-#### test title
--test point
+We are a group of three film buffs. We discuss movies, get information about the latest films and upcoming releases, and hang out at movie theaters. We love all kinds of movies including those independent films that failed miserably in the box office. With this project we not only will find the secret common factors behind successful movies, but also will re-examine whether the box office is the only matrix to define a good movie. There are some movies we will go and see no matter what the critics say. Maybe it's a big dumb comedy and we feel like a laugh or there is one actor we really love. Conversely there are times when there are ten movies showing during holiday season and we browse out Rottentomato to seek critics’ suggestions.
+
+### File Description
+
+- Data Retrieval Files
+  DataRetrieval.ipynb
+  DataRetrieval-Boxoffice.ipynb
+  DataRetrieval-Counted.ipynb
+  DataRetrieval-CriticData.ipynb
+
+
+
+- test point
 
 MovieTable: Aggregate data from 4 movie tables from rotten tomato. Duplicates are dropped.
 NewMovieTable: Delete actors that show up less than 6 times. There are movies with no cast as their actors have been all deleted. Movies without critic rating are removed.
