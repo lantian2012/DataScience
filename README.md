@@ -1,8 +1,8 @@
 
 #Group Project for Data Science 
 ##What to Watch: Something You Don’t Know about Rottentomatoes.com
------------------
 
+-----------------
 Peiheng Hu, Tian Lan, Xiaoan Wang
 
 ### Overview
