@@ -12,10 +12,16 @@ We are a group of three film buffs. We discuss movies, get information about the
 ### File Description
 
 - Data Retrieval Files
-  DataRetrieval.ipynb
-  DataRetrieval-Boxoffice.ipynb
-  DataRetrieval-Counted.ipynb
-  DataRetrieval-CriticData.ipynb
+
+  - Training Data
+
+    DataRetrieval.ipynb
+
+    DataRetrieval-Boxoffice.ipynb
+
+    DataRetrieval-Counted.ipynb
+    
+    DataRetrieval-CriticData.ipynb
 
 
 
